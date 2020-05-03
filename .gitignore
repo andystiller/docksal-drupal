@@ -1,0 +1,11 @@
+#Ignore the project folder that will contain the site code.
+docroot/*
+
+#Ignore any sql or gz files in the db folder as they are site specific
+db/*.sql
+db/*.gz
+
+#Ignore local settings.
+.docksal/docksal-local.env
+.docksal/docksal-local.yml
+drush/aliases.drushrc.php

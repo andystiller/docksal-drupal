@@ -1,0 +1,5 @@
+version: "2.1"
+services:
+    db:
+        volumes:
+            - ${PROJECT_ROOT}/db:/docker-entrypoint-initdb.d:ro
