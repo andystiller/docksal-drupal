@@ -9,3 +9,6 @@ db/*.gz
 .docksal/docksal-local.env
 .docksal/docksal-local.yml
 drush/aliases.drushrc.php
+
+#Ignore editoe configuration files
+.vscode/*
