@@ -1,4 +1,4 @@
-# Empty Drupal Docsal structure
+# Empty Drupal Docksal structure
 
 This project is an empty Docksal project for use with exisiting Drupal code and database.
 It creates the default containers for a web project. There is extra configuration to automatically create the correct database import the data.
